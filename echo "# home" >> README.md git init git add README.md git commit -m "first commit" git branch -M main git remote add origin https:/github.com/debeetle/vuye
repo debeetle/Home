@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<link rel="Shortcut Icon" href="bookmark.ico" type="image/x-icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-16" />
+
+<head>
+	<title>Home</title>
+	<style>
+		a {
+			text-decoration: none;
+			color: black;
+		}
+		a:hover {
+			color: red;
+		}
+		ul {
+			width: 16rem;
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		li {
+			padding: 0.8rem 0;
+			text-align: center;
+		}
+	    td {
+            vertical-align: top;
+			padding-left: 0;
+			padding-right: 0;
+		}
+		table {
+			margin: auto;
+		}
+		html {
+			font-size: 14px;
+		}
+		body {
+			margin: 0;
+		}
+        @media(prefers-color-scheme: dark) {
+            body{
+                background-color: rgb(25,26,27);
+            }
+            a{
+                color: #92f6da;
+            }
+        }   
+	</style>
+</head>
+
+<body>
+    <table>
+		<tr>
+			<td>
+				<ul>
+					<li><a href="https://music.qier222.com//">Music</a></li>
+					<li><a href="https://web.getslowly.com/home">Slowly</a></li>
+					<li><a href="https://sspai.com/">少数派</a></li>
+					<li><a href="https://www.ipanda.com/">吸大猫</a></li>
+					<li><a href="https://t.bilibili.com/">Bilibili</a></li>
+					<li><a href="https://debeetle.github.io">和自己说说话</a></li>
+					<li><a href="https://sheet.host/tags/animenz">Animenzzz</a></li>
+					<li><a href="https://winds.getstream.io">Winds</a></li>
+					<li><a href="https://music.apple.com/cn/browse">Apple Music</a></li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li><a href="https://docs.qq.com/desktop/">腾讯文档</a></li>
+					<li><a href="https://www.dooccn.com/">IDE</a></li>
+					<li><a href="https://codepen.io/">Codepen</a></li>
+					<li><a href="https://www.kdocs.cn/latest">金山文档</a></li>
+					<li><a href="https://www.remnote.io/knowledge-base">Remnote</a></li>
+					<li><a href="https://www.yuque.com/dashboard">语雀</a></li>
+					<li><a href="https://flomoapp.com/mine/">Flomo</a></li>
+                    <li><a href="https://pipipi-pikachu.github.io/PPTist/">PPT</li>
+					<li><a href="https://https://www.overleaf.com/project">Overleaf</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li><a href="https://www.geogebra.org/graphing">Plot</a></li>
+					<li><a href="https://outlook.live.com/mail/inbox">Outlook</a></li>
+					<li><a
+							href="https://mail.qq.com/cgi-bin/frame_html?sid=kOMxhIvhOCS0O28y&r=97cec78230d7f9ba1bb2d66000db9d04">QQ邮箱</a>
+					</li>
+					<li><a href="http://detexify.kirelabs.org/classify.html">手写LaTex</a></li>
+					<li><a href="https://color.adobe.com/zh/create/color-wheel">AdobeColor</a></li>
+					<li><a href="https://www.desmos.com/calculator?lang=zh-CN">图形计算器</a></li>
+					<li><a href="https://snapdrop.net">Snapdrop</a></li>
+                    <li><a href="https://filehelper.weixin.qq.com">文件传输助手</a></li>
+					<li><a href="https://web.wechat.com">微信</a></li>
+					<li><a href="https://www.deepl.com/translator">DeepL</a></li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li><a href="https://chrome.zzzmh.cn/">极简插件</a></li>
+					<li><a href="https://greasyfork.org/zh-CN/scripts">Script</a></li>
+					<li><a href="https://www.v2ex.com/">V2ex</a></li>
+					<li><a href="https://www.xda-developers.com/">XDA</a></li>
+					<li><a href="https://github.com/">Github</a></li>
+                    <li><a href="https://gitee.com">Gitee</li>
+					<li><a href="https://www.icourse163.org/">MOOC</a></li>
+					<li><a href="https://www.picular.co">Picular</a></li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li><a href="https://reddit.com/">Reddit</a></li>
+					<li><a href="https://blog.twitter.com/">Twitter</a></li>
+					<li><a href="https://www.quora.com/">Quora</a></li>
+					<li><a href="https://contacts.google.com/?hl=zh-CN&tab=wC">Contacts</a></li>
+					<li><a href="https://calendar.google.com/calendar/r?tab=Cc">Calendar</a></li>
+					<li><a href="https://podcasts.google.com">Google播客</a></li>
+					<li><a href="https://one.google.com/home">Google one</a></li>
+					<li><a href="https://mail.google.com/mail/u/0/?tab=cminbox">Gmail</a></li>
+					<li><a href="https://photos.google.com/?tab=cq&pageId=none">Google相册</a></li>
+					<li><a href="https://docs.google.com/document/u/0/">Google文档</a></li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
